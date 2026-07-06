@@ -1,0 +1,5 @@
+aiortc
+aiohttp
+cryptography
+loguru
+websockets
