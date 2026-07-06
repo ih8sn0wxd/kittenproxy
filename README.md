@@ -119,8 +119,9 @@ $ python main.py --mode client
 Готово. Смотрим логи, если сервер ответил на звонок и прокся стартанула - ставим её в браузер и сидим спокойно в интернете
 
 ### Ссылки на клиенты под мобилки
-Android: when?
-iOS: when?
+Android: [when?](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+iOS: [when?](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 # Community
 Все новости проекта можно найти в [нашем тг канале](https://t.me/kittenproxyvk), там же можно найти поддержку если что-то не заводится.
